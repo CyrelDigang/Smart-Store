@@ -56,4 +56,8 @@
 1. Click the **Export to CSV** button.
 2. The system will generate a `.csv` file containing all current data in the inventory.
 
+---
 
+### System Images
+
+!
